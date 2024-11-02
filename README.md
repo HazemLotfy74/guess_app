@@ -7,3 +7,6 @@ Features:
 -Multiplayer Mode: Allows multiple users to play in a competitive mode.
 -Player Tracking: Saves the last players who played and records the winning player.
 
+![WhatsApp Image 2024-11-02 at 3 38 21 PM](https://github.com/user-attachments/assets/dfd026a5-5ab7-4a7b-9480-64ded84629c4)
+
+
