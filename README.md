@@ -1,16 +1,9 @@
 # guess_app
 
-A new Flutter project.
+A fun, interactive number-guessing game where users attempt to guess a randomly selected number between 1 and 9..
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+Scoring: Tracks user score for each correct guess.
+Multiplayer Mode: Allows multiple users to play in a competitive mode.
+Player Tracking: Saves the last players who played and records the winning player.
+Technologies: Flutter for cross-platform development, local storage for saving player data.
